@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oii! Eu sou o Higor, sejam Bem-vindos! 👋
+
+- 🔭 Estou finalizando o ensino médio, yess
+- 🌱 Estudando JavaScript e outras tecnologias
+- 😄 Pronouns: ele/dele
 
 <!--
 **higor-silvadev/higor-silvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
