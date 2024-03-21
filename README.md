@@ -4,3 +4,4 @@
 - 🌱 Estudando JavaScript e outras tecnologias
 - 😄 Pronouns: ele/dele
 
+<img align="right" alt="Developer image" src="developer.png"  width="300px"/>
