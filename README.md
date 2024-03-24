@@ -2,7 +2,7 @@
 
 <div>
   <a href = "mailto:higorjsilva399@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/linkedin.com/in/higor-silva-7900842a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/higor-silva-7900842a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
@@ -10,6 +10,8 @@
 - 🔭 Estou finalizando o ensino médio, yess
 - 🌱 Estudando JavaScript e outras tecnologias
 - 😄 Pronouns: ele/del
+
+<img align="right" alt="Developer image" src="developer.png"  width="300px"/>
   
 <div>
   <a href="https://github.com/higor-silvadev">
