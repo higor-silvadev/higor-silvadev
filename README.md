@@ -1,4 +1,4 @@
-## Olá! Eu sou o Higor Silva, sejam bem-vindos! 👋
+## Olá, Sejam bem-vindos! 👋
 
 <div>
   <a href = "mailto:higorjsilva399@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -7,7 +7,7 @@
 
 <img align="right" alt="Developer image" src="developer.png"  width="300px"/>
 
-##
+## Meu nome é Higor Silva
 
 - 🔭 Estou finalizando o ensino médio, yess
 - 🌱 Estudando JavaScript e outras tecnologias
