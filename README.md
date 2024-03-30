@@ -10,8 +10,6 @@
 - 🔭 Estou finalizando o ensino médio, yess
 - 🌱 Estudando JavaScript e outras tecnologias
 - 😄 Pronouns: ele/del
-
-<img align="right" alt="Developer image" src="developer.png"  width="300px"/>
   
 <div>
   <a href="https://github.com/higor-silvadev">
@@ -23,5 +21,7 @@
   <img align="center" alt="Higor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Higor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<img align="right" alt="Developer image" src="developer.png"  width="300px"/>
 
 ##
