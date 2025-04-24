@@ -9,7 +9,7 @@
 
 ## Meu nome é Higor Silva
 
-- 🔭 Estou finalizando o ensino médio, yess
+- 🔭 Na faculdade!
 - 🌱 Estudando JavaScript e outras tecnologias
 - 😄 Pronouns: ele/del
   
