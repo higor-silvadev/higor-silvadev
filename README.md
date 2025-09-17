@@ -13,10 +13,6 @@
 - 🌱 Estudando JavaScript e outras tecnologias
 - 😄 Pronouns: ele/del
   
-<div>
-  <a href="https://github.com/higor-silvadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-silvadev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Higor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
