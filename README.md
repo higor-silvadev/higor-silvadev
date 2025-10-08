@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,python,java,c#,unity,spring,cs,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,java,cs,unity,spring,cs,git,docker)](https://skillicons.dev)
 
 ---
 
