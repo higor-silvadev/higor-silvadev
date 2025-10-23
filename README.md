@@ -3,7 +3,7 @@
  
 - 🎓 Studying **Computer Science at UFABC**  
 - 🚀 Passionate about **Python, AI, Java and Game development**  
-- 🏗️ Founder of **Gallirick Games**, a game company  
+- 🏗️ Founder of **Gallirick Games**, a game startup
 - 📚 Currently diving deeper into **Python, Java, Spring, Docker, AWS, CI/CD, and Data Structures**  
 - 🎯 Big dreams, grounded execution  
 
