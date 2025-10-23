@@ -7,7 +7,7 @@
 - 📚 Currently diving deeper into **Python, Java, Spring, Docker, AWS, CI/CD, and Data Structures**  
 - 🎯 Big dreams, grounded execution  
 
-- 📫 Reach me at: **higorjsilva399@gmail.com**
+- 📫 Reach me at: **higorsilva.dev@gmail.com**
 
 
 ---
