@@ -34,7 +34,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=higor-silvadev&show_icons=true&theme=default&rank_icon=github"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=higor-silvadev&show_icons=true&theme=default" alt="higor-silvadev" />
 </p>
 
 ---
